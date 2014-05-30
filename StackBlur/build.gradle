@@ -10,7 +10,7 @@ android {
     buildToolsVersion '19.0.3'
 
     defaultConfig {
-        renderscriptTargetApi 19
+        renderscriptTargetApi 18
         renderscriptSupportMode true
     }
 
